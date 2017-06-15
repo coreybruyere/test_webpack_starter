@@ -1,0 +1,5 @@
+@import "normalize.css"
+
+@import 'shared/type.css'
+
+@import 'components/card/card.css'
